@@ -1,0 +1,2 @@
+# Android-social-media-app
+ This is a social media app. Basically this is a integrated app of Qoura, Instragrm and other social media app
